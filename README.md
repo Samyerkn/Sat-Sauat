@@ -75,3 +75,19 @@ The frontend communicates with the backend through API requests. The backend man
        v      v       v
    Database  Exam    AI Service
              Logic   (External API)
+👥 Target Audience
+- High school students preparing for SAT-style exams.
+- Students in Kazakhstan exploring university admission opportunities.
+- Students seeking a more structured and affordable approach to exam preparation.
+🌱 Project Vision
+Our goal is to make exam preparation more accessible and personalized by combining educational technology, data-driven insights, and AI-assisted learning.
+Sauat is designed to support students throughout their preparation journey — from understanding their current level to identifying areas for improvement and exploring future academic opportunities.
+👩‍💻 Team
+Team Member	Role
+Samal	Project Manager & Backend Developer
+Asem	Frontend Developer
+Symbat	AI/ML & Data
+Amina	UI/UX Designer & QA
+
+
+Sauat — a smarter path to your academic future.
